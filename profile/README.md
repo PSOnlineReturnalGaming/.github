@@ -1,7 +1,7 @@
 ## What is PSORG? 👋
 <p align="center">
   <a href="https://discord.gg/JHaKNcRcjA"><img src="https://img.shields.io/badge/Discord-PSORG-%235865F2"></a>
-    <a href="https://twitter.com/DestinPsHome">
+    <a href="https://twitter.com/PSORGRevival">
         <img src="https://img.shields.io/twitter/follow/PSORGRevival?style=social&logo=twitter"
             alt="Follow us on Twitter"></a>
        <a href="https://www.twitch.tv/psorg/videos">
