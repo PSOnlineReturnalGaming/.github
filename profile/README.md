@@ -31,7 +31,7 @@ We're a non-profit project team dedicated to restoring PlayStation first, and th
 
 - [PSORG Game Info](https://github.com/PSOnlineReturnalGaming/Game-Info)
 - [PSORG Online](https://github.com/PSOnlineReturnalGaming/PSORG-Online)
-- [PSORG Horizon Server Fork](https://github.com/PSOnlineReturnalGaming/Horizon-Server-PSORG-Public)
+- [PSORG Horizon Server Fork](https://github.com/Jump-Suit/Horizon-Server-Public)
 - [PSORG SOAP Protocol](https://github.com/PSOnlineReturnalGaming/SOAP-protocol-Public)
 - [PSORG UYA Medius Encryption Tool Fork](https://github.com/PSOnlineReturnalGaming/uya-medius-encryption)
 
