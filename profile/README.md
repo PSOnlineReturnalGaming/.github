@@ -29,7 +29,6 @@ We're a non-profit project team dedicated to restoring PlayStation first, and th
 
 ### Current GitHub Projects:
 
-- [PSORG Game Info](https://github.com/PSOnlineReturnalGaming/Game-Info)
 - [PSORG Online](https://github.com/PSOnlineReturnalGaming/PSORG-Online)
 - [PSORG Horizon Server Fork](https://github.com/Jump-Suit/Horizon-Server-Public)
 - [PSORG SOAP Protocol](https://github.com/PSOnlineReturnalGaming/SOAP-protocol-Public)
