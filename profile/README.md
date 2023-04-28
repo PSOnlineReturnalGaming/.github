@@ -20,7 +20,7 @@ We're a non-profit project team dedicated to restoring PlayStation first, and th
 <table class="center">
 <tr>
    <td align="center"><a href="https://twitter.com/PSORGRevival?lang=en"><img src="" width="100px;" alt=""/><br /><sub><b>JumpSuit</b></sub></a><br /><a href="https://github.com/PSOnlineReturnalGaming" title="Lead Network Reverse Engineer & Programmer">📶</a>
-   <td align="center"><a href="https://twitter.com/PSORGRevival?lang=en"><img src="" width="100px;" alt=""/><br /><sub><b>Brenden</b></sub></a><br /><a href="https://github.com/PSOnlineReturnalGaming" title="_Web Dev_">🌐</a>
+   <td align="center"><a href="https://twitter.com/PSORGRevival?lang=en"><img src="" width="100px;" alt=""/><br /><sub><b>Alex.</b></sub></a><br /><a href="https://github.com/PSOnlineReturnalGaming" title="_Web Dev_">🌐</a>
 </td>
 <td align="center"><a href="https://twitter.com/PSORGRevival?lang=en"><img src="" width="100px;" alt=""/><br /><sub><b>Kiwidog</b></sub></a><br /><a href="https://twitter.com/kd_tech_" title="_Backend Host_">🧰</a>
      <td align="center"><a href="https://twitter.com/PSORGRevival?lang=en"><img src="" width="100px;" alt=""/><br /><sub><b>John</b></sub></a><br /><a href="https://github.com/PSOnlineReturnalGaming" title="PSORG Developer">🛠</a></td>
